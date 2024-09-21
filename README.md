@@ -24,5 +24,5 @@ Adquiri experiência na integração com a API do Docker, aplicando soluções e
 ## Referência
 
  - [Fernada Kipper](https://www.youtube.com/watch?v=wp5PjmwYymA&t=1558s)
- - [Docker-Java](https://github.com/docker-java)
+ - [Docker-Java](https://github.com/docker-java/docker-java)
 
